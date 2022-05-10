@@ -1,6 +1,6 @@
 # cti110
 CTI 110 Repository
 # CTI 110 Repository
-Created for P1LAB2
+Created for all labs and projects throughout the class
 Misurak
-2/11/2022
+2022
